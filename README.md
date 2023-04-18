@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on multiple stuff from CUHK and a small start-up about e-commerce;
+
+- 🌱 I’m currently learning GTK + Rust;
+
+- 👯 I’m looking to collaborate on more life-improvement FOSS projects;
+
+- 📫 How to reach me: Please feel free to email;
+
+- 😄 Pronouns: They/them.
