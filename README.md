@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on multiple stuff from CUHK and a small start-up about e-commerce;
+- 🔭 I’m currently working on multiple stuff from CUHK and a small start-up about e-commerce;
 
 - 🌱 I’m currently learning GTK + Rust;
 
